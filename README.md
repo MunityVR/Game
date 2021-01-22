@@ -1,1 +1,3 @@
 # Game
+
+Have fun!
